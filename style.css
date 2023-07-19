@@ -134,6 +134,7 @@ section .gamer-pg{
      font-size: 18px;
     font-weight: 400;
     line-height: 30px; 
+    padding: 20px 0px;
 }
 .know-more-btn{
     color: #FFF;
@@ -141,10 +142,39 @@ section .gamer-pg{
     font-weight: 600;
     text-transform: uppercase;
     display: inline-flex;
-    padding: 21px 40px;
+    padding: 20px 35px;
     align-items: flex-start;
     gap: 10px;
     border-radius: 48px;
     background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
     border-style: none;
+}
+.our-perpuse{
+    padding: 25px 0px;
+    color: #534C64;
+}
+
+
+.games-video-title{
+    color: #0B0223;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+   
+}
+.games-video-pg{
+   text-align: center;
+   color: #534C64;
+   padding: 20px 0px;
+}
+.video-container{
+    display: flex;
+   margin: 40px 240px;
+   justify-content: space-around;
+   align-items: center;
+}
+.play-instant-content{
+    display: flex;
+    margin: 50px 240px;
+    
 }
