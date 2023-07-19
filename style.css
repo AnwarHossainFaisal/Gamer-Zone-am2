@@ -70,11 +70,16 @@ section .play-like{
     text-transform: uppercase;
 }
 section .goat{
-    color: #FF42A5;
+
+    
     text-align: center;
     font-size: 95px;
     font-weight: 800;
     text-transform: uppercase;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .sign-in{
     color: white;
@@ -176,5 +181,29 @@ section .gamer-pg{
 .play-instant-content{
     display: flex;
     margin: 50px 240px;
+    padding-top: 50px;
+    text-align: right;
     
 }
+.play-instant-title{
+    padding: 150px 255px 0px 185px;
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+   
+}
+.play-instant-pg{
+    padding-right: 270px;
+    padding-top: 20px;
+}
+.play-instant-corner{
+    align-items: right;
+    padding-left: 875px;
+    margin-top: -345px;
+
+  
+}
+.bottom-section{
+    
+}
+
