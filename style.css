@@ -29,7 +29,7 @@ nav .logo{
  
 }
 span{
-    color: #FF42A5;
+   color:  #F948B2
  
 
 }
@@ -161,7 +161,7 @@ section .gamer-pg{
 }
 /* we are gamer section end */
 
-/* online gmae section start */
+/* online video section start */
 
 
 .games-video-title{
@@ -182,7 +182,7 @@ section .gamer-pg{
    justify-content: space-around;
    align-items: center;
 }
-/* online game section end */
+/* online video section end */
 
 /* play instantly section start */
 
@@ -289,5 +289,4 @@ section .gamer-pg{
     padding-top: 75px;
 }
 /* footer section end */
-    
 
