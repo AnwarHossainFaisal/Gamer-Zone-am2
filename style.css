@@ -54,7 +54,7 @@ i{
     margin-left: 25px;
 }
 /* nav section end */
-/* top section start */
+/* banner section start */
 main .top-container{
     margin: 30px 240px;
     display: flex;
@@ -113,7 +113,7 @@ section .banner{
     margin: 5px 0px 30px 100px;
 
 }
-/* top section end */
+/* banner section end */
 /* we are gamer section start */
 .we-are-gamer{
    display: flex;
@@ -159,6 +159,9 @@ section .gamer-pg{
     padding: 25px 0px;
     color: #534C64;
 }
+/* we are gamer section end */
+
+/* online gmae section start */
 
 
 .games-video-title{
@@ -179,6 +182,10 @@ section .gamer-pg{
    justify-content: space-around;
    align-items: center;
 }
+/* online game section end */
+
+/* play instantly section start */
+
 .play-instant-content{
     display: flex;
     margin: 50px 240px;
@@ -204,6 +211,9 @@ section .gamer-pg{
 
   
 }
+/* play instantly section end */
+
+/* game catagory section start */
 .bottom-section-container{
     background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
 
@@ -235,6 +245,9 @@ section .gamer-pg{
     border: #F948B2;
 
 }
+/* game catagory section end */
+
+/* footer section start */
 .Footer-container{
     padding: 0px 240px;
     width: 1920px;
@@ -249,7 +262,7 @@ section .gamer-pg{
     justify-content: center;
     margin-top: 20px;
     padding: 55px;
-    font-size: 35px;
+    font-size: 30px;
 
 }
 .our-story{
@@ -275,5 +288,6 @@ section .gamer-pg{
     text-align: center;
     padding-top: 75px;
 }
+/* footer section end */
     
 
